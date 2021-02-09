@@ -1,2 +1,1 @@
-# Labelz
-A Python Module that creates Postscript code to print labels
+Labelz is a python module that creates postscript code for printing labels.
